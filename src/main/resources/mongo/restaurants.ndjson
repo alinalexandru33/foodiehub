@@ -1,0 +1,8 @@
+{"_id": "r_pizza_nonna", "name": "Pizza Nonna", "geo": {"type": "Point", "coordinates": [26.1025, 44.4268]}, "cuisine": ["pizza", "italian"], "avgPrepTimeMinutes": 20, "rating": 4.6, "openHours": [{"dayOfWeek": 1, "open": "10:00", "close": "22:00"}, {"dayOfWeek": 7, "open": "11:00", "close": "23:00"}]}
+{"_id": "r_sushi_zen", "name": "Sushi Zen", "geo": {"type": "Point", "coordinates": [26.07, 44.45]}, "cuisine": ["sushi", "japanese"], "avgPrepTimeMinutes": 25, "rating": 4.8}
+{"_id": "r_big_burger", "name": "Big Burger House", "geo": {"type": "Point", "coordinates": [26.08, 44.44]}, "cuisine": ["burger", "american"], "avgPrepTimeMinutes": 15, "rating": 4.4}
+{"_id": "r_green_bite", "name": "Green Bite Vegan Bistro", "geo": {"type": "Point", "coordinates": [26.11, 44.42]}, "cuisine": ["vegan", "healthy"], "avgPrepTimeMinutes": 18, "rating": 4.7}
+{"_id": "r_sweet_tooth", "name": "Sweet Tooth Patisserie", "geo": {"type": "Point", "coordinates": [26.09, 44.43]}, "cuisine": ["dessert", "bakery"], "avgPrepTimeMinutes": 12, "rating": 4.3}
+{"_id": "r_cool_drinks", "name": "Cool Drinks Bar", "geo": {"type": "Point", "coordinates": [26.105, 44.428]}, "cuisine": ["drinks", "bar"], "avgPrepTimeMinutes": 10, "rating": 4.5}
+{"_id": "r_ciorba_sarmale", "name": "La Ciorbă și Sarmale", "geo": {"type": "Point", "coordinates": [26.1155, 44.432]}, "cuisine": ["romanian", "soup", "traditional"], "avgPrepTimeMinutes": 22, "rating": 4.2}
+{"_id": "r_taco_loco", "name": "Taco Loco", "geo": {"type": "Point", "coordinates": [26.097, 44.424]}, "cuisine": ["mexican", "tacos"], "avgPrepTimeMinutes": 17, "rating": 4.5}

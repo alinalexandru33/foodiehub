@@ -1,0 +1,30 @@
+{"restaurantId": "r_pizza_nonna", "name": "Margherita", "price": 28.0, "allergens": ["gluten", "lactose"], "available": true}
+{"restaurantId": "r_pizza_nonna", "name": "Diavola", "price": 34.0, "allergens": ["gluten"], "available": true}
+{"restaurantId": "r_pizza_nonna", "name": "Quattro Stagioni", "price": 38.0, "allergens": ["gluten", "lactose"], "available": true}
+{"restaurantId": "r_pizza_nonna", "name": "Prosciutto e Funghi", "price": 36.0, "allergens": ["gluten", "lactose"], "available": true}
+{"restaurantId": "r_sushi_zen", "name": "Salmon Maki", "price": 32.0, "allergens": ["fish", "soy"], "available": true}
+{"restaurantId": "r_sushi_zen", "name": "Tuna Nigiri", "price": 36.0, "allergens": ["fish"], "available": true}
+{"restaurantId": "r_sushi_zen", "name": "California Roll", "price": 30.0, "allergens": ["gluten", "fish", "soy"], "available": true}
+{"restaurantId": "r_sushi_zen", "name": "Miso Soup", "price": 18.0, "allergens": ["soy"], "available": true}
+{"restaurantId": "r_big_burger", "name": "Classic Beef Burger", "price": 29.0, "allergens": ["gluten", "lactose"], "available": true}
+{"restaurantId": "r_big_burger", "name": "Cheese Bacon Burger", "price": 34.0, "allergens": ["gluten", "lactose"], "available": true}
+{"restaurantId": "r_big_burger", "name": "Chicken Burger", "price": 27.0, "allergens": ["gluten", "egg"], "available": true}
+{"restaurantId": "r_big_burger", "name": "Veggie Burger", "price": 26.0, "allergens": ["gluten"], "available": true}
+{"restaurantId": "r_green_bite", "name": "Falafel Wrap", "price": 24.0, "allergens": ["gluten", "sesame"], "available": true}
+{"restaurantId": "r_green_bite", "name": "Quinoa Bowl", "price": 28.0, "allergens": [], "available": true}
+{"restaurantId": "r_green_bite", "name": "Vegan Brownie", "price": 15.0, "allergens": ["nuts"], "available": true}
+{"restaurantId": "r_green_bite", "name": "Detox Smoothie", "price": 18.0, "allergens": [], "available": true}
+{"restaurantId": "r_sweet_tooth", "name": "Chocolate Cake", "price": 22.0, "allergens": ["gluten", "lactose", "egg"], "available": true}
+{"restaurantId": "r_sweet_tooth", "name": "Tiramisu", "price": 25.0, "allergens": ["gluten", "lactose", "egg"], "available": true}
+{"restaurantId": "r_sweet_tooth", "name": "Cheesecake", "price": 27.0, "allergens": ["lactose", "gluten", "egg"], "available": true}
+{"restaurantId": "r_sweet_tooth", "name": "Fruit Tart", "price": 20.0, "allergens": ["gluten", "egg"], "available": true}
+{"restaurantId": "r_cool_drinks", "name": "Fresh Lemonade", "price": 12.0, "allergens": [], "available": true}
+{"restaurantId": "r_cool_drinks", "name": "Iced Coffee", "price": 14.0, "allergens": ["lactose"], "available": true}
+{"restaurantId": "r_cool_drinks", "name": "Craft Beer", "price": 18.0, "allergens": ["gluten"], "available": true}
+{"restaurantId": "r_cool_drinks", "name": "Mojito", "price": 22.0, "allergens": [], "available": true}
+{"restaurantId": "r_ciorba_sarmale", "name": "Ciorbă de burtă", "price": 24.0, "allergens": ["lactose"], "available": true}
+{"restaurantId": "r_ciorba_sarmale", "name": "Sarmale cu mămăliguță", "price": 32.0, "allergens": [], "available": true}
+{"restaurantId": "r_ciorba_sarmale", "name": "Papanași", "price": 20.0, "allergens": ["gluten", "lactose", "egg"], "available": true}
+{"restaurantId": "r_taco_loco", "name": "Tacos al Pastor", "price": 26.0, "allergens": [], "available": true}
+{"restaurantId": "r_taco_loco", "name": "Chicken Quesadilla", "price": 28.0, "allergens": ["gluten", "lactose"], "available": true}
+{"restaurantId": "r_taco_loco", "name": "Nachos Supreme", "price": 24.0, "allergens": ["lactose"], "available": true}
