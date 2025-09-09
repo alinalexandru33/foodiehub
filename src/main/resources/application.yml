@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/foodiehub
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
